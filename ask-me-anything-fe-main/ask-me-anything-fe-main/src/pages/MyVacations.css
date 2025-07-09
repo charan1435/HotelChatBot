@@ -1,0 +1,45 @@
+.my-vacations-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .my-vacations-title {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #f8c41a;
+  }
+  
+  .my-vacation-card {
+    background-color: #fdf5e6;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-bottom: 20px;
+  }
+  
+  .my-vacation-card h3 {
+    color: #444444;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .my-vacation-card p {
+    color: #777777;
+    margin-bottom: 20px;
+  }
+  
+  .my-vacation-card a {
+    color: #555555;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  .my-vacation-card a:hover {
+    color: #f8c41a;
+  }
+  

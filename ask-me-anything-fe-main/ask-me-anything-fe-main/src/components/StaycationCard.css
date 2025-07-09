@@ -1,0 +1,42 @@
+#card{
+    background-color: #FFEAA7;
+    border-radius: 5%;
+    padding: 3%;
+    overflow: hidden;
+    box-shadow: 0px 0px 15px;
+    transition: 0.3s;
+    animation: ease-in-out;
+    
+}
+
+#hotelName{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+#dates{
+    font-size: 12px;
+    font-weight: 400;
+}
+#btnbody{
+    display: 'inline',
+}
+
+#btnBody button{
+    background-color: #F0CF67;
+    font-size: small;
+    font-weight: 600;
+    color: black;
+}
+
+
+#btn2{
+   
+    margin: 10px;
+}
+
+#btn1{
+   
+    margin: 10px;
+
+}
